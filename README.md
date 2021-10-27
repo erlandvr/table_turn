@@ -1,6 +1,6 @@
 # table_turn
 
-A new Flutter project.
+An app to invite friends over for dinner.
 
 ## Getting Started
 
